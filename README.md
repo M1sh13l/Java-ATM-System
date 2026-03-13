@@ -72,7 +72,14 @@ JavaProject/
 
 ---
 
+## Requirements
+- Java JDK 8 or higher
+- Any Java IDE (IntelliJ IDEA, Eclipse, VS Code)
+
+---
+
 ## How to Run
+
 1. Clone the repository:
 
 ```bash
@@ -80,21 +87,17 @@ git clone https://github.com/M1sh13l/Java-ATM-System.git
 ```
 
 2. Open the project in any Java IDE such as:
-   - IntelliJ IDEA
-   - Eclipse
-   - VS Code
+- IntelliJ IDEA
+- Eclipse
+- VS Code
 
-3. Make sure all `.java` files are inside the same package/folder.
+3. Make sure all `.java` files are inside the same `JavaProject` folder.
 
-4. Run:
+4. Locate the file **ATMSystemTest.java** (this is the main class).
 
-```bash
-ATMSystemTest.java
-```
+5. Run the program using your IDE.
 
-This will launch the ATM System GUI.
-
----
+The ATM System GUI will launch.
 
 ## Example Functionality
 A user can:
