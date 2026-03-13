@@ -45,16 +45,23 @@ The project demonstrates the use of object-oriented programming principles throu
 
 ## Project Structure
 ```
-JavaProject/
+Java-ATM-System/
 │
-├── Account.java
-├── Admin.java
-├── ATM.java
-├── ATMSystemTest.java
-├── CheckingAccount.java
-├── SavingsAccount.java
-├── Transaction.java
-├── User.java
+├── src
+│   ├── Admin.java
+│   ├── ATM.java
+│   ├── ATMSystemTest.java
+│   ├── Account.java
+│   ├── CheckingAccount.java
+│   ├── SavingsAccount.java
+│   ├── Transaction.java
+│   └── User.java
+│
+├── screenshots
+│   ├── login.png
+│   ├── menu.png
+│   └── transaction.png
+│
 └── README.md
 ```
 
